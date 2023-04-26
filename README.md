@@ -1,6 +1,6 @@
 # Tablegard Photoshoot
 
-Hi, thanks for expressing your interest in the upcoming photoshoot for tablegard.com. The following are the fabrics which need photgraphed. 
+Hi! Thank you for expressing your interest in the upcoming photoshoot for tablegard.com. The following are the fabrics which need photgraphed. 
 
 Contact at Site: Maurice
 Call: +44 7802 539215
@@ -85,3 +85,10 @@ Chris Kelly
 - Diamond Black
 - Diamond Grey 
 - Double Diamond Black
+
+## Further Questions
+
+please direct further questions to chris@chriskelly.it or optionally call +34 603 766 507. 
+
+Thank you
+Chris Kelly
