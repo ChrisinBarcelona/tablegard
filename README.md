@@ -1,5 +1,15 @@
 # Tablegard Photoshoot
 
+Hi, thanks for your interest in the recent job for tablegard.com. The following are the fabricws which need photgraphed. I urge you to take a look at the current website to see what way the images are currently being displayed online. We require x2 photos per fabric. x1: is a flat image sjhot from above and x2 is a side angle with a crease in the fabric to see the texture. 
+
+Contact at Site: Maurice
+Call: +44 7802 539215
+Address: 6 Spring Mill, Moor St, Heywood OL10 3DD
+
+Duration: .5 Day
+Date: April 2023
+
+
 ## A1
 
 - Matte Black
