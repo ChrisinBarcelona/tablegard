@@ -31,6 +31,9 @@ Kindly, I request the file sizes to be compressed to <400kbs around 350 x 350 px
 Many Thanks, 
 Chris Kelly
 
+## Two photos per fabric
+
+![photo1](https://tablegard.com/wp-content/uploads/2019/03/IMG_0447_cheniq.jpg)
 
 ## A1
 
