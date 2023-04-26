@@ -33,6 +33,12 @@ Chris Kelly
 
 ## Two photos per fabric
 
+The first photo should be flat, shot from above. It is important to adjust your lighting to match each photo to its pair. Fabric texture is a challenge and some if not done correctly, you will end up wasting time in editing. Adjust your ISO and aperture to best suit the conditions of both the fabric and the lighting where needed. 
+
+![photo2](https://tablegard.com/wp-content/uploads/2019/03/IMG_0438_cheniq.jpg)
+
+The scond shot should be at an angle with a crease. Please fold the fabric over ensuring continutity and uniformity as you transition from fabric to fabric. The angle of all creases should be from - top left - bottom right - with a rotation of approx 28° Clockwise.
+
 ![photo1](https://tablegard.com/wp-content/uploads/2019/03/IMG_0447_cheniq.jpg)
 
 ## A1
