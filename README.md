@@ -51,8 +51,7 @@ Chris Kelly
 ### Amigo
 
 - Pink
-- Dove
-- Grey
+- Dove Grey
 - Foamed
 
 ### Basketweave
@@ -67,12 +66,15 @@ Chris Kelly
 - Green
 - Yellow
 - Grey 
+- Black 
+- Red
 
 ### Cartrim
 
 - Smoke
 - Black
 - Silver
+- Anthracite 
 
 ### Montana
 
@@ -80,11 +82,13 @@ Chris Kelly
 
 ### Quilted Vinyl
 
-- Hex Red
-- Hex Black
-- Diamond Black
-- Diamond Grey 
-- Double Diamond Black
+- Hexagon only Black
+- Honeycomb Black with White stitch
+- Honeycomb Black with White Stitch 
+- Diamond 1
+- Diamond 2
+- Diamond 3
+- Diamond Black with Light Grey Stitch 
 
 ## Further Questions
 
