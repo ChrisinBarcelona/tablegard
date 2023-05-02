@@ -42,24 +42,49 @@ Many Thanks,
 Chris Kelly
 
 ## Fabrics to Photograph
-
 ### A1
-
 - Matte Black
 - Black Foamed
 
 ### Amigo
-
 - Pink
 - Dove Grey
 - Foamed
 
 ### Basketweave
+- Black
 
+### Bolero
+- Antique 
+- Green
+- Antique Blue
+
+### Cartrim
+- Smoke
+- Black
+- Silver
+- Anthracite 
+
+### Chicago
+- Saville Grey 
+- Dark Grey 
+
+### Duraflex crib 5 
+- Grey 
+- Caramel 
+
+### Heron
+- Sunflower 
+- Orange 
+- Red 
+- Baby Pink 
+- Purple 
+- Apple  
+
+### Montana
 - Black
 
 ### Tartans
-
 - Blue
 - Beige
 - Orange
@@ -68,27 +93,6 @@ Chris Kelly
 - Grey 
 - Black 
 - Red
-
-### Cartrim
-
-- Smoke
-- Black
-- Silver
-- Anthracite 
-
-### Montana
-
-- Black
-
-### Quilted Vinyl
-
-- Hexagon only Black
-- Honeycomb Black with White stitch
-- Honeycomb Black with White Stitch 
-- Diamond 1
-- Diamond 2
-- Diamond 3
-- Diamond Black with Light Grey Stitch 
 
 ## Further Questions
 
