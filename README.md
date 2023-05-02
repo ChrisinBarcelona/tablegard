@@ -7,7 +7,7 @@ Call: +44 7802 539215
 Address: 6 Spring Mill, Moor St, Heywood OL10 3DD
 
 Duration: .5 Day
-Date: Subject to Availability - April 2023
+Date: 16th May from 9am
 
 ## Two photos per fabric
 
