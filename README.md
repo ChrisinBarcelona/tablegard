@@ -6,8 +6,8 @@ Contact at Site: Maurice
 Call: +44 7802 539215
 Address: 6 Spring Mill, Moor St, Heywood OL10 3DD
 
-Duration: .5 Day @ £18 per hour
-Date: 16th May from 9am 
+- Duration: .5 Day @ £18 per hour
+- Date: 16th May from 9am 
 
 ## Two photos per fabric
 
